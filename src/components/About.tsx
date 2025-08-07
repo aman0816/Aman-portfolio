@@ -58,11 +58,11 @@ const About = () => {
              </h3>
             
                          <p className="text-gray-600 leading-relaxed">
-<<<<<<< HEAD
+ HEAD
                I am a passionate front-end developer with over 5 years of experience in building 
 =======
                I&apos;m a passionate front-end developer with over 5 years of experience in building 
->>>>>>> 31f5243 (Fix: escaped apostrophes and cleaned up code)
+ 31f5243 (Fix: escaped apostrophes and cleaned up code)
                modern web applications and creating exceptional user interfaces. My journey in 
                technology started with curiosity and has evolved into a deep passion 
                for creating beautiful, responsive web experiences.
