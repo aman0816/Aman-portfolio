@@ -16,11 +16,11 @@ export default function SimplePage() {
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <h3 className="text-2xl font-bold text-gray-900 mb-4">About Me</h3>
               <p className="text-gray-600">
-<<<<<<< HEAD
+ HEAD
                 I am a passionate front-end developer with over 5 years of experience in building
 =======
                 I&apos;m a passionate front-end developer with over 5 years of experience in building
->>>>>>> 31f5243 (Fix: escaped apostrophes and cleaned up code)
+ 31f5243 (Fix: escaped apostrophes and cleaned up code)
                 modern web applications and creating exceptional user interfaces.
               </p>
             </div>
