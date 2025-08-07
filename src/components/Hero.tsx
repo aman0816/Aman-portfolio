@@ -52,11 +52,11 @@ const Hero = () => {
             transition={{ delay: 0.2 }}
             className="text-lg text-blue-600 font-medium"
           >
-<<<<<<< HEAD
+ HEAD
             Hello, I am
 =======
             Hello, I&apos;m
->>>>>>> 31f5243 (Fix: escaped apostrophes and cleaned up code)
+ 31f5243 (Fix: escaped apostrophes and cleaned up code)
           </motion.p>
 
                      {/* Name */}
